@@ -5,6 +5,7 @@
 		"foreground": "#7aa8ab"
 	}
 },
+
 {
 	"name": "Attributes",
 	"scope": "entity.other.attribute-name",
@@ -12,4 +13,11 @@
 		"foreground": "#4bb1eee6"
 	}
 },
-"textLink.activeForeground": "#fcfcfa",
+"diffEditor.insertedTextBackground": "#00d54e56",
+"diffEditor.removedTextBackground": "#ff000050",
+"diffEditor.insertedLineBackground": "#00ff5e14",
+"diffEditor.removedLineBackground": "#ff000020",
+"diffEditorGutter.insertedLineBackground": "#00ff5e49",
+"diffEditorGutter.removedLineBackground": "#ff00004e",
+"diffEditorOverview.insertedForeground": "#01ba4e",
+"diffEditorOverview.removedForeground": "#b90000"
