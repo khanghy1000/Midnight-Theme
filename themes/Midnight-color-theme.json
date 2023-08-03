@@ -1822,7 +1822,7 @@
 		"textLink.foreground": "#907cb7",
 		"textLink.activeForeground": "#fcfcfa",
 		"editor.background": "#191c1f",
-		"editor.foreground": "#b8b8b8",
+		"editor.foreground": "#ffffffcd",
 		"editorLineNumber.foreground": "#858585",
 		"editorCursor.foreground": "#aeafad",
 		"editorCursor.background": "#000000",
