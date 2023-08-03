@@ -1867,7 +1867,7 @@
 		"editorGutter.modifiedBackground": "#0c7d9d",
 		"editorGutter.addedBackground": "#587c0c",
 		"editorGutter.deletedBackground": "#94151b",
-		"editorGutter.foldingControlForeground": "#3d2c2c",
+		"editorGutter.foldingControlForeground": "#ffffff4e",
 		"editorCodeLens.foreground": "#999999",
 		"editorGroup.border": "#444444",
 		"diffEditor.insertedTextBackground": "#00d54e56",
@@ -1995,7 +1995,7 @@
 		"minimapGutter.modifiedBackground": "#0c7d9d",
 		"minimapGutter.deletedBackground": "#94151b",
 		"minimap.findMatchHighlight": "#38649640",
-		"minimap.selectionHighlight": "#907cb73e",
+		"minimap.selectionHighlight": "#9b7ade3d",
 		"minimap.errorHighlight": "#f48771",
 		"minimap.warningHighlight": "#cbad39",
 		"minimap.background": "#191c1f",
@@ -2007,7 +2007,7 @@
 		"settings.focusedRowBackground": "#ffffff07",
 		"walkThrough.embeddedEditorBackground": "#00000050",
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
-		"editorGutter.commentRangeForeground": "#3d2c2c",
+		"editorGutter.commentRangeForeground": "#ffffff4e",
 		"debugExceptionWidget.background": "#191c1f",
 		"debugExceptionWidget.border": "#474747"
 	}
