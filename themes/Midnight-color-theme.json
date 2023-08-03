@@ -123,7 +123,7 @@
 			"name": "Comment Markup Link",
 			"scope": "comment markup.link",
 			"settings": {
-				"foreground": "#969bb05a"
+				"foreground": "#64687dcf"
 			}
 		},
 		{
@@ -1626,7 +1626,7 @@
 			"name": "comments",
 			"scope": ["beginning.punctuation.definition.list.markdown.xi"],
 			"settings": {
-				"foreground": "#969bb05a"
+				"foreground": "#64687dcf"
 			}
 		},
 		{
@@ -1661,7 +1661,7 @@
 			"name": "elements to dim",
 			"scope": ["punctuation.definition.tag.xi"],
 			"settings": {
-				"foreground": "#969bb05a"
+				"foreground": "#64687dcf"
 			}
 		},
 		{
@@ -1698,14 +1698,14 @@
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#969bb05a"
+				"foreground": "#64687dcf"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] Markdown Quote",
 			"scope": "markup.quote.markdown",
 			"settings": {
-				"foreground": "#969bb05a"
+				"foreground": "#64687dcf"
 			}
 		},
 		{
@@ -1867,11 +1867,11 @@
 		"editorGutter.modifiedBackground": "#0c7d9d",
 		"editorGutter.addedBackground": "#587c0c",
 		"editorGutter.deletedBackground": "#94151b",
-		"editorGutter.foldingControlForeground": "#ffffff4e",
+		"editorGutter.foldingControlForeground": "#ffffff68",
 		"editorCodeLens.foreground": "#999999",
 		"editorGroup.border": "#444444",
-		"diffEditor.insertedTextBackground": "#00d54e56",
-		"diffEditor.removedTextBackground": "#ff000050",
+		"diffEditor.insertedTextBackground": "#00d54e48",
+		"diffEditor.removedTextBackground": "#ff000046",
 		"diffEditor.insertedLineBackground": "#00ff5e14",
 		"diffEditor.removedLineBackground": "#ff000020",
 		"diffEditorGutter.insertedLineBackground": "#00ff5e49",
@@ -2007,7 +2007,7 @@
 		"settings.focusedRowBackground": "#ffffff07",
 		"walkThrough.embeddedEditorBackground": "#00000050",
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
-		"editorGutter.commentRangeForeground": "#ffffff4e",
+		"editorGutter.commentRangeForeground": "#ffffff68",
 		"debugExceptionWidget.background": "#191c1f",
 		"debugExceptionWidget.border": "#474747"
 	}
