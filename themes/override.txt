@@ -1,0 +1,15 @@
+{
+	"name": "Tags",
+	"scope": "entity.name.tag",
+	"settings": {
+		"foreground": "#7aa8ab"
+	}
+},
+{
+	"name": "Attributes",
+	"scope": "entity.other.attribute-name",
+	"settings": {
+		"foreground": "#4bb1eee6"
+	}
+},
+"textLink.activeForeground": "#fcfcfa",
