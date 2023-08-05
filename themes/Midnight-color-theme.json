@@ -1840,7 +1840,7 @@
 		"editor.rangeHighlightBackground": "#ffffff0b",
 		"editor.rangeHighlightBorder": "#ffffff00",
 		"editor.hoverHighlightBackground": "#264f7840",
-		"editor.wordHighlightStrongBackground": "#00487260",
+		"editor.wordHighlightStrongBackground": "#00487255",
 		"editor.wordHighlightBackground": "#5757575b",
 		"editor.lineHighlightBackground": "#ffffff0A",
 		"editor.lineHighlightBorder": "#282828",
